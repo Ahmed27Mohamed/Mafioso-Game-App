@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MafiosoGame" parent="android:Theme.Material.Light.NoActionBar" >
+        <!-- لون الخلفية الافتراضي -->
+        <item name="android:windowBackground">@color/background_dark</item>
+        <!-- لون النصوص -->
+        <item name="android:textColor">@color/text_light</item>
+    </style>
+
+</resources>
